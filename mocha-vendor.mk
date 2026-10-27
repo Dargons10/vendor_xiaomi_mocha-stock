@@ -42,6 +42,14 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/mocha/proprietary/etc/firmware/tegra12x/nvhost_msenc031.fw:system/etc/firmware/tegra12x/nvhost_msenc031.fw \
     vendor/xiaomi/mocha/proprietary/etc/firmware/tegra12x/nvhost_tsec.fw:system/etc/firmware/tegra12x/nvhost_tsec.fw \
     vendor/xiaomi/mocha/proprietary/etc/firmware/tegra12x/vic03_ucode.bin:system/etc/firmware/tegra12x/vic03_ucode.bin \
+    vendor/xiaomi/mocha/proprietary/etc/firmware/tegra12x/fecs.bin:system/etc/firmware/gk20a/fecs.bin \
+    vendor/xiaomi/mocha/proprietary/etc/firmware/tegra12x/gpccs.bin:system/etc/firmware/gk20a/gpccs.bin \
+    vendor/xiaomi/mocha/proprietary/etc/firmware/tegra12x/gpmu_ucode.bin:system/etc/firmware/gk20a/gpmu_ucode.bin \
+    vendor/xiaomi/mocha/proprietary/etc/firmware/tegra12x/NETB_img.bin:system/etc/firmware/gk20a/NETB_img.bin \
+    vendor/xiaomi/mocha/proprietary/etc/firmware/tegra12x/fecs.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/gk20a/fecs.bin \
+    vendor/xiaomi/mocha/proprietary/etc/firmware/tegra12x/gpccs.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/gk20a/gpccs.bin \
+    vendor/xiaomi/mocha/proprietary/etc/firmware/tegra12x/gpmu_ucode.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/gk20a/gpmu_ucode.bin \
+    vendor/xiaomi/mocha/proprietary/etc/firmware/tegra12x/NETB_img.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/gk20a/NETB_img.bin \
     vendor/xiaomi/mocha/proprietary/etc/firmware/tfa9890.config:system/etc/firmware/tfa9890.config \
     vendor/xiaomi/mocha/proprietary/etc/firmware/tfa9890_boot.patch:system/etc/firmware/tfa9890_boot.patch \
     vendor/xiaomi/mocha/proprietary/etc/firmware/tfa9890_left.speaker:system/etc/firmware/tfa9890_left.speaker \
