@@ -78,7 +78,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/mocha/proprietary/lib/libsensors.mpu6515.so:system/lib/libsensors.mpu6515.so \
     vendor/xiaomi/mocha/proprietary/lib/hw/ts.default.so:system/lib/hw/ts.default.so \
     vendor/xiaomi/mocha/proprietary/lib/libFaceProc.so:system/vendor/lib/libFaceProc.so \
-    vendor/xiaomi/mocha/proprietary/lib/libbeautify.so:system/vendor/lib/libbeautify.so \
     vendor/xiaomi/mocha/proprietary/lib/libbt-client-api.so:system/lib/libbt-client-api.so \
     vendor/xiaomi/mocha/proprietary/lib/libinvensense_hal.so:system/lib/libinvensense_hal.so \
     vendor/xiaomi/mocha/proprietary/lib/libmllite.so:system/lib/libmllite.so \
